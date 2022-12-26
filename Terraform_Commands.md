@@ -7,7 +7,7 @@
 ``` bash
 #Configure the default AWS profile by this command
 aws configure
-#after that enter <i>Access key ID</i>  & <i>Secret access key</i> of IAM user
+#after that enter Access key ID & Secret access key of IAM user
 ```
 
 ``` bash
@@ -33,10 +33,3 @@ terraform show
 ``` bash
 terraform state list
 ```
-
-
-
-
-
-
-
