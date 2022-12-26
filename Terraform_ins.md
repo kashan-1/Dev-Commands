@@ -5,5 +5,5 @@
 ## Build Setup
 
 ``` bash
-
+aws configure
 ```
