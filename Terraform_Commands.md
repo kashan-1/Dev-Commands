@@ -3,11 +3,12 @@
 > Commands to Create | Build | Destroy Infrastrucutre
 
 ## Commands
+> Download the agent first by using this link: https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-install-win.html
 
-``` bash
 #Configure the default AWS profile by this command
-aws configure
 #after that enter Access key ID & Secret access key of IAM user
+``` bash
+aws configure
 ```
 
 ``` bash
