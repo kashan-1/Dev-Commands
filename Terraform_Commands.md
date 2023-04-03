@@ -34,3 +34,8 @@ terraform show
 ``` bash
 terraform state list
 ```
+To destroy infrastructue
+
+``` bash
+terraform destroy
+```
